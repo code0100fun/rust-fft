@@ -1,0 +1,11 @@
+[package]
+
+name = "rust-fft"
+version = "0.0.1"
+authors = ["Chase McCarthy <chase@code0100fun.com>"]
+
+[dependencies]
+num = "*"
+
+[lib]
+name = "fft"
